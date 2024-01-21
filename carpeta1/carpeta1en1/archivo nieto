@@ -1,6 +1,6 @@
 ---
 title: archivo nieto
 layout: archivo nieto
-parent: archivo-1-en-carpeta-1.md
-grand_parent: archivo en carpeta 1 en 1
+parent: archivo en carpeta 1 en 1
+grand_parent: archivo-1-en-carpeta-1.md
 ---
