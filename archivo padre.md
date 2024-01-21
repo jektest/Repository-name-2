@@ -1,6 +1,6 @@
 ---
 title: archivo padre
-layout: archivo padre
-parent: archivo nieto
+layout: default
+parent: archivo abuelo
 has_children: true
 ---
